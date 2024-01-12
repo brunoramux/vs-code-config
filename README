@@ -1,1 +1,31 @@
+INSTALAR AS EXTENSÕES ABAIXO:
 
+ICONES: SYMBOLS
+Name: Symbols
+Id: miguelsolorio.symbols
+Description: A simple file icon theme for VS Code
+Version: 0.0.16
+Publisher: Miguel Solorio
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
+
+TEMA: MIN THEME
+Name: Min Theme
+Id: miguelsolorio.min-theme
+Description: A minimal theme that comes in dark and light.
+Version: 1.5.0
+Publisher: Miguel Solorio
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme
+
+APC CUSTOMIZE UI
+Name: Apc Customize UI++
+Id: drcika.apc-extension
+Description: Advanced VSCode user interface customizations. Very experimental.
+Version: 0.3.6
+Publisher: drcika
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension
+
+
+INSTALAR FONTES:
+JETBRAINS: https://www.jetbrains.com/pt-br/lp/mono/
+
+JETBRAINSMONO NERD MONO
